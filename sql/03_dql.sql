@@ -1,4 +1,4 @@
-﻿USE wms;
+USE wms;
 
 -- simple selects
 SELECT * FROM bin;

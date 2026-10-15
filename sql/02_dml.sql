@@ -1,4 +1,4 @@
-﻿USE wms;
+USE wms;
 
 INSERT INTO zone (zone_name, city) VALUES
  ('Kothrud','Pune'), ('Hinjewadi','Pune'), ('Viman Nagar','Pune');

@@ -1,4 +1,4 @@
-﻿package wms;
+package wms;
 
 public class Bin {
     private int id;
