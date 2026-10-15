@@ -1,1 +1,1 @@
-<% response.sendRedirect(request.getContextPath() + "/bins"); %>
+<% response.sendRedirect(request.getContextPath() + "/dashboard"); %>
